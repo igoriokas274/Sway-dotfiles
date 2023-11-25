@@ -19,7 +19,6 @@ Sway WM with monochrome color palette configuration files
 	- Fonts
 		- Roboto
 		- Font Awesome
-		- Noto Sans JP
 	- [ Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme)
 	- [Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme)
 - Wallpaper
