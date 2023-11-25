@@ -33,4 +33,4 @@ Sway WM with monochrome color palette configuration files
   	- ``` sudo usermod -aG input [username] ```
 	- Do not forget log out and log in back
   - After copy fonts to /usr/share/font directories run:
-    	- ``` sudo fc-cache -f -v ```
+	- ``` sudo fc-cache -f -v ```
