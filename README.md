@@ -1,7 +1,9 @@
 # Sway-dotfiles
-Sway WM configuration files
+Sway WM with monochrome color palette configuration files
 
-- ![sway-monochrome-personal.png](/assets/sway-monochrome-personal.png)
+![sway-monochrome-personal.png](/assets/sway-monochrome-personal.png)
+- System
+  	- Ubuntu 23.10
 - Dependencies
 	- ranger
 	- waybar
@@ -9,7 +11,8 @@ Sway WM configuration files
 	- mako
 	- kitty
 	- alacritty
-	- blueman
+	- blueman-applet
+   	- nm-applet (network manager)
 	- grim
 	- grimshot
 	- ffmpeg
