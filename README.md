@@ -29,6 +29,8 @@ Sway WM with monochrome color palette configuration files
 ## Wallpaper
 - [Man Made Pier HD Wallpaper](https://wall.alphacoders.com/big.php?i=875211)
 ## Tips and Tricks
-  - Waybar keyboard-state module not working
+  - Waybar keyboard-state module not working. Solution:
   	- ``` sudo usermod -aG input [username] ```
 	- Do not forget log out and log in back
+  - After copy fonts to /usr/share/font directories run:
+    	- ``` sudo fc-cache -f -v ```
