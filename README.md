@@ -18,7 +18,7 @@ Sway WM with monochrome color palette configuration files
 - ffmpeg
 - Fonts
 	- [Roboto](https://fonts.google.com/specimen/Roboto)
-	- [Font Awesome](https://use.fontawesome.com/releases/v6.4.2/fontawesome-free-6.4.2-desktop.zip)
+	- [Font Awesome](https://fontawesome.com/download) // Free For Desktop
 - Themes
 	- [ Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme)
 	- [Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme)
