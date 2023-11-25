@@ -24,3 +24,8 @@ Sway WM with monochrome color palette configuration files
 	- [Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme)
 - Wallpaper
 	- [Man Made Pier HD Wallpaper](https://wall.alphacoders.com/big.php?i=875211)
+- [GitHub Waybar Wiki ](https://github.com/Alexays/Waybar/wiki)
+- Tips and Tricks
+  	- Waybar keyboard-state module not working
+  		- ``` sudo usermod -aG input [username] ```
+		- Do not forget log out and log in back
