@@ -24,9 +24,9 @@ Sway WM with monochrome color palette configuration files
 ## Baseg on
 - [Kanroot](https://github.com/kanroot/Dotsfiles/tree/master)
 - [NOOBDY](https://github.com/NOOBDY/dotfiles)
+-  [Alexays Waybar Wiki ](https://github.com/Alexays/Waybar/wiki)
 ## Wallpaper
 - [Man Made Pier HD Wallpaper](https://wall.alphacoders.com/big.php?i=875211)
-## [Alexays Waybar Wiki ](https://github.com/Alexays/Waybar/wiki)
 ## Tips and Tricks
   - Waybar keyboard-state module not working
   	- ``` sudo usermod -aG input [username] ```
