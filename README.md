@@ -1,7 +1,7 @@
 # Sway-dotfiles
 Sway WM configuration files
 
-- ![sway-monochrome-personal.png](../assets/sway-monochrome-personal.png)
+- ![sway-monochrome-personal.png](/assets/sway-monochrome-personal.png)
 - Dependencies
 	- ranger
 	- waybar
