@@ -31,6 +31,6 @@ Sway WM with monochrome color palette configuration files
 ## Tips and Tricks
   - Waybar keyboard-state module not working. Solution:
   	- ``` sudo usermod -aG input [username] ```
-	- Do not forget log out and log in back
+	- Don't forget log out and log in back
   - After copy fonts to `/usr/share/fonts` directories run:
 	- ``` sudo fc-cache -f -v ```
